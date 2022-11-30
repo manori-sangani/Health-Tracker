@@ -21,7 +21,27 @@ Login Page
 
 ![Intro](https://github.com/manori-sangani/Health-Tracker/blob/main/Images/Login%20Page.PNG)
 
+Dashboard
 
+![Intro](https://github.com/manori-sangani/Health-Tracker/blob/main/Images/Dashboard%201.PNG)
+
+![Intro](https://github.com/manori-sangani/Health-Tracker/blob/main/Images/Dashboard%202.PNG)
+
+Insert Patient Details
+
+![Intro](https://github.com/manori-sangani/Health-Tracker/blob/main/Images/Insert%20Patient%20Details.PNG)
+
+Gender Wise Report
+
+![Intro](https://github.com/manori-sangani/Health-Tracker/blob/main/Images/Gender%20Wise%20Report.PNG)
+
+Age Wise Report
+
+![Intro](https://github.com/manori-sangani/Health-Tracker/blob/main/Images/Age%20Wise%20Report.PNG)
+
+Patient Summary
+
+![Intro](https://github.com/manori-sangani/Health-Tracker/blob/main/Images/Patient%20Summary.PNG)
 
 ## Future Scope
 
