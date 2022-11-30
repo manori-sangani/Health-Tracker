@@ -10,10 +10,10 @@ This repository consists of a Health Tracker WebApp built with the help of MERN 
 
 This application provides users with the following features:
 
-  •	Pictorial and Statistical Representation and Comparison of various Parameters
-  •	Real-time Updates
-  •	Easy Insertion of Patient Details
-  •	Simple and Informative Display of Patient Details
+•	Pictorial and Statistical Representation and Comparison of various Parameters
+•	Real-time Updates
+•	Easy Insertion of Patient Details
+•	Simple and Informative Display of Patient Details
 
 ## Screenshots
 
