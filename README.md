@@ -19,7 +19,7 @@ This application provides users with the following features:
 
 Login Page
 
-![Intro](https://github.com/manori-sangani/Health-Tracker/blob/main/Images/Login%20Page.png)
+![Intro](https://github.com/manori-sangani/Health-Tracker/blob/main/Images/Login%20Page.PNG)
 
 
 
