@@ -35,12 +35,13 @@ This application provides users with the following features:
 
 ## Contribution
 
--Manori Sangani
--Archita Sogani
+- Manori Sangani
+- Archita Sogani
 
 ## Acknowledgement
 
-KJ Somaiya College of Engineering, Faculty – Deepa Jain
+- KJ Somaiya College of Engineering 
+- Faculty – Deepa Jain
 
 
 
